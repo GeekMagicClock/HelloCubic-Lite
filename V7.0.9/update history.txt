@@ -1,0 +1,1 @@
+1）Fixed the issue of displaying errors when the temperature is negative in the simple weather theme.
