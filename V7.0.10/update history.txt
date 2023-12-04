@@ -1,0 +1,6 @@
+V7.0.10
+1) Fix 12/24 hour format display error of themes.
+2) Fixed the Fahrenheit display problem of simple weather.
+
+V7.0.9
+1）Fixed the issue of displaying errors when the temperature is negative in the simple weather theme.
