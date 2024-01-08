@@ -1,3 +1,10 @@
+V7.0.13
+1) small fix, more stable.
+
+V7.0.12
+1) [Urgent fix] Fix public weather api key run out, please get your own key here, it's free. 
+https://home.openweathermap.org/api_keys
+
 V7.0.10
 1) Fix 12/24 hour format display error of themes.
 2) Fixed the Fahrenheit display problem of simple weather.
